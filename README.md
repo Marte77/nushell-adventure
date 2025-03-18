@@ -7,3 +7,4 @@
 `, mas não deu pq let-env nao existe! (??) 3x top!
 1. Dps vi nos [docs da nushell como adicionar corretamente](https://www.nushell.sh/book/environment.html#env-var-assignment), `$env.Path = ($env.PATH | append "/sbin")`
 
+só me dava problemas ent desinstalei lol
